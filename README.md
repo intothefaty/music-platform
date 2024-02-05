@@ -1,2 +1,2 @@
 # music_platform
-Music Platform With PySimpleGui
+Basic Music Platform With PySimpleGui
